@@ -1,4 +1,4 @@
-import * as THREE from './node_modules/three/build/three';
+import * as THREE from './js/three.module.js;
 
 let camera, scene, renderer;
 let geometry, material, mesh;
